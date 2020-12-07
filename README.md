@@ -14,10 +14,10 @@ In the end, two teams need to compare their scores and the one with higher score
 
 ## Example output
 Original single one in a chat room
-![single](https://github.com/YaoChungLiang/GoogleHathon/output/single.png)
+![single](https://github.com/YaoChungLiang/GoogleHathon/tree/main/output/single.png)
 
 After you shared the url with another guy, both of you are able to be in the same chat room.
-![multiple](https://github.com/YaoChungLiang/GoogleHathon/output/multiple.png)
+![multiple](https://github.com/YaoChungLiang/GoogleHathon/tree/main/output/multiple.png)
 
 
 
